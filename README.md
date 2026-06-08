@@ -1,1 +1,17 @@
-# agro-forte-1B
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Página do agrinho</title>
+</head>
+<body>
+<div class="container"><img src="Gemini_Generated_Image_x71wu3x71wu3x71w.png"  alt="foca nos estudos" ></div>
+ <h1>Só falta um trimestre </h1>
+ <h2>E a gente está como?</h2>
+ <h1>Sedentos pelo saber  </h1>
+ <div class="container"><img src="Gemini_Generated_Image_ypa4p2ypa4p2ypa4-removebg-preview.png" alt="foca nos estudos" ></div>
+   
+</body>
+</html>
